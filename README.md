@@ -23,3 +23,6 @@ Arquivos
 
 planejador_de_rotas.py: Contém o código Python para a interface gráfica e a lógica para encontrar a rota.
 rotas.pl: Arquivo Prolog contendo definições de rotas e distâncias entre as cidades.
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou enviar solicitações de melhoria.
