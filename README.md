@@ -21,8 +21,9 @@ A rota e a distância serão exibidas na janela.
 
 Arquivos
 
-planejador_de_rotas.py: Contém o código Python para a interface gráfica e a lógica para encontrar a rota.
-rotas.pl: Arquivo Prolog contendo definições de rotas e distâncias entre as cidades.
+'main.py': Contém o código Python para a interface gráfica e a lógica para encontrar a rota.
+'rotas.pl': Arquivo Prolog contendo definições de rotas e distâncias entre as cidades.
+'background_image': Contém o arquivo de imagem usado como plano de fundo na interface gráfica.
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, relatar problemas ou enviar solicitações de melhoria.
